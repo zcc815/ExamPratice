@@ -1,4 +1,4 @@
-package Demo01.Day001;
+package niuke.Day001;
 
 /**
  * 测试子类父类结合的时候类的加载顺序

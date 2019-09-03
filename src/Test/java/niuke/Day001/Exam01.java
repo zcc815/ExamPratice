@@ -1,4 +1,4 @@
-package Demo01.Day001;
+package niuke.Day001;
 
 import org.junit.Test;
 
